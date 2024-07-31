@@ -1,3 +1,9 @@
+Material de orientações para desenvolvimento da missão
+prática do 1º nível de conhecimento.
+
+RPG0014  - Iniciando o caminho pelo Java
+
+
 1º Procedimento | Criação das Entidades e Sistema de Persistência
 
 1. Criar um projeto do tipo Ant..Java Application no NetBeans, utilizando o nome
